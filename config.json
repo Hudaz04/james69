@@ -7,7 +7,7 @@
       "settings": {
         "clients": [
           {
-            "password": "james",
+            "password": "blu",
             "level": 0
           }
         ]
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/James"
+          "path": "/fuckyou"
         }
       }
     }
